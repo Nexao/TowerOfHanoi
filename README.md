@@ -5,4 +5,4 @@ contains all disks. Afterwards 1 disc is moved at a time, where it's not allowed
 
 ![Screenshot](Screenshot.png)
 
-Emil and Edmond
+Emil, Edmond and Florent
